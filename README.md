@@ -31,7 +31,7 @@ In addition to my technical expertise, I am a reliable and detail-oriented profe
   <br>
   💻 I love writing code and learning everything about it.
   <br>
-  📫 How to reach me: <a href="mailto: ahmed.t.elhashash@gmail.com">ahmed.t.elhashash@gmail.com</a>
+  📫 Feel free to reach me on: <a href="mailto: ahmed.t.elhashash@gmail.com">ahmed.t.elhashash@gmail.com</a>
 </p>
 <hr>
 
