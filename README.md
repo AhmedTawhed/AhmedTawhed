@@ -41,7 +41,6 @@ In addition to my technical expertise, I am a reliable and detail-oriented profe
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 ![typescript](https://img.shields.io/badge/-typescript-2e72bc?style=flat-square&logo=typescript&logoColor=ffffff)
-![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)<br>
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![SQL](https://custom-icon-badges.demolab.com/badge/SQL-013.svg?style=flat-square&logo=database&logoColor=white)&nbsp;
@@ -50,6 +49,5 @@ In addition to my technical expertise, I am a reliable and detail-oriented profe
 ![.Net](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Mvc](https://img.shields.io/badge/-MVC-05122A?style=flat&logo=MVC)
 ![API](https://img.shields.io/badge/API-A30701?style=flat-square&logo=API&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 </br></br>
