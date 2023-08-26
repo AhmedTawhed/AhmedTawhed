@@ -17,7 +17,7 @@
 <hr/>
 <be>
 <h3 align="center">
-  Hi, I'm Ahmed Elhashash.
+  Hi, I'm Ahmed Elhashash,
 </h3>
 <p align="start">
   I am a web developer with expertise in a wide range of technologies and tools, including C#, JavaScript, LinQ, Web API, SQL, and MVC. My passion lies in creating efficient and scalable software solutions tailored to the unique needs of businesses and individuals.
