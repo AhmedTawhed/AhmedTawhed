@@ -6,11 +6,13 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
+<!--
 <p align="center">
     <a href="mailto:ahmed.t.elhashash@gmail.com?subject=Olá%20Bruno%20Tacca"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.facebook.com/koge22/"><img src="https://img.shields.io/badge/facebook-%233B5998.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/ahmed-elhashash-8a8175289/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+-->
 
 <hr/>
 <be>
@@ -50,4 +52,12 @@ In addition to my technical expertise, I am a reliable and detail-oriented profe
 ![Mvc](https://img.shields.io/badge/-MVC-05122A?style=flat&logo=MVC)
 ![API](https://img.shields.io/badge/API-A30701?style=flat-square&logo=API&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+</br></br>
+
+<h2><img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width=20> Contact Me : </h2>
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-elhashash-8a8175289/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:ahmed.t.elhashash@gmail.com)](mailto:ahmed.t.elhashash@gmail.com)
+[![FaceBook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/koge22)
+[![Whatsapp](https://img.shields.io/badge/-Whatsapp-075e54?style=flat-squaree&logo=Whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=01127738946)
 </br></br>
